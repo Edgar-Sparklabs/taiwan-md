@@ -15,7 +15,7 @@ lastVerified: 2026-03-20
 
 ## 30-Second Overview
 
-Taiwan's startup ecosystem has evolved rapidly in recent years. Moving past early struggles with funding shortages, it now boasts a mature network of accelerators, venture capital (VC) firms, and government support systems. Key players like **AppWorks** and **SparkLabs Taipei** have nurtured hundreds of startups. With a strong focus on technology, AI, and hardware integration, Taiwan is actively cultivating its own "unicorns" and forming a unique entrepreneurial landscape that bridges East and West.
+Taiwan's startup ecosystem has evolved rapidly in recent years. Moving past early struggles with funding shortages, it now boasts a mature network of accelerators, venture capital (VC) firms, and government support systems. Key players like **AppWorks** and **SparkLabs Taiwan** have nurtured hundreds of startups. With a strong focus on technology, AI, and hardware integration, Taiwan is actively cultivating its own "unicorns" and forming a unique entrepreneurial landscape that bridges East and West.
 
 **Keywords:** Accelerators, Venture Capital, AppWorks, Unicorns, Startup Ecosystem
 
@@ -51,7 +51,7 @@ The early 2010s saw significant shifts:
 
 The ecosystem matured rapidly during this period:
 
-- **Accelerator Diversification:** International accelerators like **SparkLabs Taipei**, **MOX**, and **Garage+** entered the market, joining AppWorks.
+- **Accelerator Diversification:** International accelerators like **SparkLabs Taiwan**, **MOX**, and **Garage+** entered the market, joining AppWorks.
 - **Capital Influx:** Local VC fund sizes increased, and international VCs began scouting Taiwan.
 - **Success Stories:** The rise of companies like **91APP** (e-commerce), **Gogoro** (EVs), and **Appier** (AI) boosted overall confidence.
 
@@ -74,9 +74,15 @@ Founded in 2010, AppWorks is a defining institution in Taiwan's startup scene:
 - **Focus:** AI, Blockchain, and Southeast Asia (SEA).
 - **Model:** Biannual Demo Days and a 6-month free acceleration program that emphasizes peer learning.
 
+Founded in 2018, SparkLabs Taiwan is one of the leading accelerators in Taiwan’s startup ecosystem, with a strong focus on AI and deep tech:
+
+- **Positioning:** An AI-first, investment-driven accelerator combining capital with hands-on support.
+- **Focus:** AI, semiconductors, enterprise SaaS, and deep-tech innovation.
+- **Model:** Invests in selected startups and provides structured support in productization, go-to-market, and fundraising.
+- **Global Network:** Part of the SparkLabs global network, connecting startups to Silicon Valley, South Korea, Japan, the Middle East, and Southeast Asia.
+
 ### Other Key Accelerators
 
-- **SparkLabs Taipei:** Part of the global SparkLabs network, focusing on B2B enterprise solutions and connecting startups to global markets.
 - **MOX (Mobile Only Accelerator):** Focuses on mobile internet and cross-border e-commerce.
 - **Garage+:** Backed by the Epoch Foundation, focusing on deep tech, IoT, and health tech, often connecting startups with Taiwan's supply chain resources.
 
